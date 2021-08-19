@@ -1,0 +1,1 @@
+SELECT * FROM w16.cidades;

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.warker.w16"},{"l":"com.warker.w16.api.controller"},{"l":"com.warker.w16.api.domain.repository"},{"l":"com.warker.w16.api.domain.service"},{"l":"com.warker.w16.domain.model"}];updateSearchResults();

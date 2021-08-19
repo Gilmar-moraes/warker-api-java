@@ -1,0 +1,5 @@
+com.warker.w16
+com.warker.w16.api.controller
+com.warker.w16.api.domain.repository
+com.warker.w16.api.domain.service
+com.warker.w16.domain.model
